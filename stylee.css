@@ -1,0 +1,124 @@
+*
+body
+{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(reynold.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    font-family: 'Qwitcher Grypen', cursive;
+
+}
+.blue
+{
+    color: #329399;
+}
+.red
+{
+    color: #ff0000;
+}
+.hover-blue
+{
+    border-radius:20px;
+    background-color: #765906;
+    cursor: pointer;
+}
+.hover-blue :hover
+{
+    color:#0089;
+    font-family: 'Qwitcher Grypen', cursive;
+}
+.hover-red
+{
+    border-radius: 20px;
+     background-color: #f09089;
+     cursor: pointer;
+}
+.hover-red :hover
+{
+    color: #008000;
+    font-family:'Qwitcher, Grypen', cursive;
+}
+a
+{
+    color: #f09089;
+}
+.hover-green
+{
+    color: #f09879;
+    border-radius:  20px;
+    background-color: #008; 
+    cursor: pointer;
+}
+.hover-green:hover
+{
+    background-color: #ff0000;
+    font-family: 'Qwitcher Grypen', cursive;
+}
+.green
+{
+    color: #008000;
+}
+.lorem
+{
+    color: #008000;
+    background-color: #0ff9;
+    border-radius: 20px;
+}
+.lorem2
+{
+    background-color:#765906 ;
+    border-radius: 20px;
+}
+.lorem3
+{
+    color: #0ff9;
+    background-color: #ff0000;
+    border-radius: 20px;
+}
+.lorem4
+{
+    background-color: #518767;
+    color:#0089;
+    border-radius: 20px;
+}
+.lorem5
+{
+    background-color: #0ff9;
+    color: #f09089;
+    border-radius: 20px;
+}
+.color
+{
+    background-color: #008000;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+.color1
+{
+    background-color: #ff0000;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.color2
+{
+    background-color: #329399;
+    border-radius: 20px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.color3
+{
+    background-color: #765906;
+    border-radius: 20px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+.marquee
+{
+    cursor: pointer;
+    border-radius: 20px;
+    color: #ff0000;
+    background-color: #223467;
+}
